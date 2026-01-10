@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709872677042",
+    "project_id": "projectcasaqueflutter",
+    "storage_bucket": "projectcasaqueflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709872677042:android:2197297402a04eadc259ab",
+        "android_client_info": {
+          "package_name": "com.example.tp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEJhsqJfOBGiEsPE89_g3PxRxbDaCYKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709872677042:android:b57db38e43505bdbc259ab",
+        "android_client_info": {
+          "package_name": "com.projectcasaqueflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEJhsqJfOBGiEsPE89_g3PxRxbDaCYKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
